@@ -18,7 +18,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role:  M.A. in Economics 
+role:  Master of Economics 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
