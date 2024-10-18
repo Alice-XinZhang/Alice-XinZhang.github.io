@@ -29,20 +29,13 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:zhangxin6022@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/xin-zhang-ab19732a3/?external_page=LPC.Immersive&external_control=ViewProfileLink&external_app_instance=ffc2e969-3358-4569-89c0-e9b3220745e5&external_page_instance=0b922193-34cf-4276-a8aa-5d468c64c321&experiment=displayLinkedInDataPrebind
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?hl=en&user=k0pOipcAAAAJ&view_op=list_works&gmla=AETOMgEYCJt37Y39pFKHo93_9eHgJzMDpWJjQOw9lhk6Wt81lncEuJxuH6WEySK2HIdy8mJ992f8D0hoghhfhD-F_O9j_mlxLDeHdvDXO6BM4pInq9L-qwkq9lR9ngA
+
 
 interests:
   - Artificial Intelligence
