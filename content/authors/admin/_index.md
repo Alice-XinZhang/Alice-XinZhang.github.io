@@ -9,9 +9,7 @@ name_pronunciation: Xin Zhang
 first_name: Xin
 last_name: Zhang
 
-# Status emoji
-status:
-  icon: ☕️
+
 
 # Is this the primary user of the site?
 superuser: true
