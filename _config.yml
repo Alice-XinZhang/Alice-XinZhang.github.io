@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jingwei (Chris) Zuo"
+title                    : "Xinzhang (Alice) Zhang"
 title_separator          : "-"
-name                     : &name "Jingwei (Chris) Zuo"
+name                     : &name "Xinzhang (Alice) Zhang"
 description              : &description "NLPer, 25' Undergrad @ Tsinghua University | 23Fall Exchange @ Northeastern University \n Research intern @ MITHanLab"
-url                      : https://jingwei-zuo.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Alice-XinZhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dr-left.github.io"
+repository               : "Alice-XinZhang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
