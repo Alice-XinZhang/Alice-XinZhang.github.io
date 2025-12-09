@@ -27,8 +27,8 @@ e.g. My main research question is ...
 <summary>💡  How I develop such a research focus? </summary>
 <div>
 Nowadays, modern deep neural networks, represented by large language models (LLMs), have an enormous number of parameters and consume significant amounts of energy. Scaling up the model to achieve superior capabilities is important, whereas keeping the cost down is also important. The energy OpenAI’s ChatGPT uses each year to respond to the users’ requests could power 43,204 U.S. homes for the entire year.<a href="https://www.bestbrokers.com/forex-brokers/ais-power-demand-calculating-chatgpts-electricity-consumption-for-handling-over-78-billion-user-queries-every-year/#:~:text=That%20means%20the%20energy%20ChatGPT%20uses%20each%20year%20to%20handle%20requests%20could%20power%2043%2C204%20U.S.%20homes%20for%20an%20entire%20year">[1]</a> It is an outrageous number, which consolidates my belief that we should make every endeavor to cut down the cost of AI models, thereby making the new technology accessible to everybody and making the earth a greener one.
-</div> -->
-</details>
+</div>
+</details> -->
 
 
 News
@@ -38,7 +38,7 @@ e.g. 12/9/2025: first commit to personal homepage
 
 Publications
 -------
-
+tbd
 <!-- <div style="display: flex; align-items: center;">
     <div style="flex-shrink: 0; margin-right: 20px;">
         <img src="../images/duo_thumbnail.jpg" alt="DuoAttention Illustration" style="max-width: 300px;">
