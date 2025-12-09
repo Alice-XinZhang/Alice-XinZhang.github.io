@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jingwei Zuo(左京伟)"
+title: "Xin Zhang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student in the Computer Science department at [Rice University](https://www.rice.edu), advised by Dr. Yuke Wang. Prior to this, I obtained bachelor's degrees in both science and engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+I am a first year Ph.D. student in the ...
 
-My research focuses on efficient machine learning systems.
+My research focuses on ...
 
-Email: jingwei.zuo [at] rice [dot] edu
+Email: tbd
 
 Research 
 -------
 
-My main research question is:
+e.g. My main research question is ...
+<!-- My main research question is:
 
 👉  How to compute more with less resources?
 {: .notice}
@@ -26,19 +27,19 @@ My main research question is:
 <summary>💡  How I develop such a research focus? </summary>
 <div>
 Nowadays, modern deep neural networks, represented by large language models (LLMs), have an enormous number of parameters and consume significant amounts of energy. Scaling up the model to achieve superior capabilities is important, whereas keeping the cost down is also important. The energy OpenAI’s ChatGPT uses each year to respond to the users’ requests could power 43,204 U.S. homes for the entire year.<a href="https://www.bestbrokers.com/forex-brokers/ais-power-demand-calculating-chatgpts-electricity-consumption-for-handling-over-78-billion-user-queries-every-year/#:~:text=That%20means%20the%20energy%20ChatGPT%20uses%20each%20year%20to%20handle%20requests%20could%20power%2043%2C204%20U.S.%20homes%20for%20an%20entire%20year">[1]</a> It is an outrageous number, which consolidates my belief that we should make every endeavor to cut down the cost of AI models, thereby making the new technology accessible to everybody and making the earth a greener one.
-</div>
+</div> -->
 </details>
 
 
 News
 -------
-01/23/2025: 🎉 DuoAttention accepted by ICLR 2025! 
+e.g. 12/9/2025: first commit to personal homepage 
 
 
 Publications
 -------
 
-<div style="display: flex; align-items: center;">
+<!-- <div style="display: flex; align-items: center;">
     <div style="flex-shrink: 0; margin-right: 20px;">
         <img src="../images/duo_thumbnail.jpg" alt="DuoAttention Illustration" style="max-width: 300px;">
     </div>
@@ -84,7 +85,7 @@ Publications
 Academic Services
 -------
 
-Service as a reviewer for the following conferences:
+e.g. Service as a reviewer for the following conferences:
 - NeurIPS 2025
 
 Experiences
@@ -222,4 +223,4 @@ Contacts
 Feel free to reach out to me by email! We may even have an in-person coffee-chat if we are in the same city! I am always glad to talk to someone else, because other's talk often inspires me and my words may inspire others too:)
 
 ℹ️ Preferred contact methods: Email / Online Chat > Wechat messaging / Text-messaging > Calling.
-{: .notice}
+{: .notice} -->
